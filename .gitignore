@@ -1,6 +1,10 @@
 # Ignore local configuration
 /web/sites/*/settings.local.php
 
+# Ignore tests, just to speed things up
+tests
+Tests
+
 # Ignore Drupal's file directory
 /web/sites/*/files/
 
