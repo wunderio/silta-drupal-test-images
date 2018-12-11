@@ -1,17 +1,17 @@
-uuid: 6fccfae9-6eb6-4ec4-b2de-8f2c02e72cd9
+uuid: 2e999d9d-fd65-4051-a9b5-cc0d29061f70
 langcode: en
 status: true
 dependencies:
   module:
     - user
   theme:
-    - seven
+    - stark
 _core:
-  default_config_hash: IItlF4SKHgxduIysVQdvirDJ_v3HGuAviOkidAOJYRE
-id: seven_login
-theme: seven
-region: content
-weight: 10
+  default_config_hash: 4QlSnWBcxxKMIFRM8sbu_MjSkcp3NjGgnVrc-lynQHI
+id: stark_login
+theme: stark
+region: sidebar_first
+weight: 0
 provider: null
 plugin: user_login_block
 settings:

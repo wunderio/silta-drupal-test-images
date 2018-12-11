@@ -1,15 +1,15 @@
-uuid: 4c601d3c-0c66-46ef-8190-baf350f0e5c3
+uuid: 19f12506-1cc9-4272-ab21-14cbdabd9456
 langcode: en
 status: true
 dependencies:
   theme:
-    - bartik
+    - stark
 _core:
-  default_config_hash: X9I1OB0W3WlWtrK-CNcg6hNWwa8wficanpH8pYnDZDE
-id: bartik_local_tasks
-theme: bartik
+  default_config_hash: c-06bbElRY5sKmglk74ppgTW93Et4-EJFyNiUZMb8JY
+id: stark_local_tasks
+theme: stark
 region: content
-weight: -40
+weight: -20
 provider: null
 plugin: local_tasks_block
 settings:
